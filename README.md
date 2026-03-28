@@ -17,3 +17,8 @@ Bu algoritma, doğum tarihinizi temel alarak mevcut yaşınızı hassas bir şek
 ```bash
 git clone https://github.com/LinledinTeroru/age-calculation-algorithm.git
 cd age-calculation-algorithm
+
+## Teşekkürler
+
+Bu projenin hayata geçirilmesinde büyük emeği geçen ekip arkadaşlarıma ve yöneticilerime içten teşekkürlerimi sunuyorum.
+Destekleri ve vizyonları olmadan bu araç mümkün olmazdı.
